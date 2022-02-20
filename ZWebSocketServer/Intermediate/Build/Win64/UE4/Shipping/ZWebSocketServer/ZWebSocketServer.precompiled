@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.ZWebSocketServer.cpp.obj",
+		"Module.ZWebSocketServer.gen.cpp.obj"
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ZWebSocketServer",
+	"Description": "WebSocket Server",
+	"Category": "NetWork",
+	"CreatedBy": "LJason",
+	"CreatedByURL": "",
+	"DocsURL": "https://blog.csdn.net/ljason1993/article/details/123031678",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ZWebSocketServer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WebSocketNetworking",
+			"Enabled": true
+		}
+	]
+}
